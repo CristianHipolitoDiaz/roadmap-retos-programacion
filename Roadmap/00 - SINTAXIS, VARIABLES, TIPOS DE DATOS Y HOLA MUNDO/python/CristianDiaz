@@ -1,0 +1,20 @@
+# comentario https://www.python.org/
+
+""" Comentario Multilinea """
+
+myVariable = miVariable
+
+
+
+# int
+my_int = 5
+# float
+my_float = 1.5
+# boolean: true
+vivo = True
+# boolean: false
+muerto = False
+# string
+comentario = "La vida es una belleza Ome!!"
+
+print = ('¡Hola, Python!')
